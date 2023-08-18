@@ -1,0 +1,11 @@
+.selectedButton {
+  background-color: #bd5f36;
+  color: white;
+  border-radius: 8px;
+}
+
+.normalButton {
+  background-color: gray;
+  color: black;
+  border-radius: 8px;
+}
